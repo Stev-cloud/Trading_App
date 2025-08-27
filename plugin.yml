@@ -1,0 +1,7 @@
+author: Adamki11s
+version: 1.0.0
+main: com.adamki11s.itemexchange.ItemExchange
+name: ItemExchange
+commands:
+  itemexchange:
+    aliases: [iex]
